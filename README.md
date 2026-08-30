@@ -42,4 +42,4 @@ Constraints
 
 - Do not explain issues in long paragraphs.
 - Explain each issue point by point.
-- Keep the evaluation simple and clear so the user can understand it without becoming confused.
+- Keep the evaluation simple and clear so the user can understand it without becoming confused .
